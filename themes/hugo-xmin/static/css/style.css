@@ -2,35 +2,36 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 1em;
-  line-height: 1.5em;
+  line-height: 1.8em;
+  background: #E5E8E4;
+  color: #222222;
 }
 
 nav {
   margin-bottom: 40px;
 }
 
-/* header and footer areas */
-.menu { padding: 0; }
-.menu li { display: inline-block; margin-right: 10px;}
-.menu a {
+.menu {
+  padding: 0;
+}
+.menu li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.menu li a:link, .menu li a:visited {
+  padding: 10px 15px;
   text-decoration: none;
-  background: #eee;
-  padding: 5px 10px;
-  border-radius: 5px;
+  background: #3c413b;
+  color: #E5E8E4;
+  border-bottom: none;
 }
 
-.menu a:hover {
-
+.menu li a:hover {
+  background: #4b504b;
 }
-
-/* .menu, .article-meta, footer { text-align: center; } */
 
 .article-meta {
   text-decoration: none;
-  /* background: #eee; */
-  /* margin: -10px; */
-  /* padding: 10px; */
-  /* border-radius: 5px; */
 }
 
 .title { font-size: 1.1em; }
@@ -43,11 +44,9 @@ footer {
 }
 
 hr {
-  /* border-style: dashed; */
   border: 1px solid #ddd;
 }
 
-/* code */
 pre {
   border: 1px solid #ddd;
   box-shadow: 5px 5px 5px #eee;
@@ -57,7 +56,6 @@ pre {
 code { background: #f9f9f9; }
 pre code { background: none; }
 
-/* misc elements */
 img, iframe, video { max-width: 100%; }
 main { hyphens: auto; }
 blockquote {
@@ -68,12 +66,9 @@ blockquote {
 
 table {
   margin: auto;
-  /* border-top: 1px solid #666; */
-  /* border-bottom: 1px solid #666; */
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-/* thead, tfoot, tr:nth-child(even) { background: #eee; } */
 
 table .logo-cell {
   width: 200px;
@@ -81,16 +76,27 @@ table .logo-cell {
 }
 
 a:link, a:visited {
-  color: #0b559f;
+  color: #386040;
+  text-decoration: none;
+  border-bottom: 1px solid #677f6b;
 }
 
 a:hover {
-  color: #5489be;
+  color: #809284;
+  text-decoration: none;
+  border-bottom: 2px solid #677f6b;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  /* margin-top: 0; */
-  /* margin-bottom: 2rem; */
   font-weight: 400;
   letter-spacing: 0;
+}
+
+h1 {
+  color: #376040;
+}
+
+.date {
+  margin-top: -10px;
+  color: #666;
 }

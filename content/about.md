@@ -19,3 +19,7 @@ For this automated human-computer loop, we will (1) develop an automated approac
     <tr><td class="logo-cell"><a href="https://ictaweb.uab.cat/"><img src="/img/partner_fcid.png"></a></td><td><a href="https://ictaweb.uab.cat/">Institute of Environmental Science and Technology at the Universitat Autonoma de Barcelona</a></td></tr>
     <tr><td class="logo-cell"><img src="/img/partner_ethz.png"></td><td><a href="https://cp.ethz.ch/">Climate Policy research group at ETH Zürich</a> in cooperation with the <a href="https://ess.tbm.tudelft.nl/">Department of Engineering Systems and Services at TU Delft</a></td></tr>
 </table>
+
+## Contact
+
+[Get in touch with the coordinator](mailto:s.pfenninger@tudelft.nl)
