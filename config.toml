@@ -32,4 +32,4 @@ theme = "hugo-xmin"
 
 [params]
   description = "SEEDS - Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition"
-  footer = "The SEEDS project is supported by the CHIST-ERA grant CHIST-ERA-19-CES-004, the Swiss National Science Foundation grant number 195537, the Fundação para a Ciência e Tecnologia (FCT) grant number CHIST-ERA/0005/2019, the Plan Estatal de Investigación Científica y Técnica y de Innovación 2017-2020, Programación Conjunta Internacional 2020 through the Agencia Estatal de Investigación, and the Estonian Research Council grant number XXXXXXXXX."
+  footer = "The SEEDS project is supported by the CHIST-ERA grant CHIST-ERA-19-CES-004, the Swiss National Science Foundation grant number 195537, the Fundação para a Ciência e Tecnologia (FCT) grant number CHIST-ERA/0005/2019, the Plan Estatal de Investigación Científica y Técnica y de Innovación 2017-2020, Programación Conjunta Internacional 2020 through the Agencia Estatal de Investigación, and the Estonian Research Council grant number 4-8/20/26."
