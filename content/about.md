@@ -10,16 +10,11 @@ The urgency to cut energy-related greenhouse gas emissions is recognised by EU p
 
 For this automated human-computer loop, we will (1) develop an automated approach to generate a wide range of alternative energy system scenarios that go beyond an economically optimal solution; (2) integrate the computation of social and environmental impacts into these alternatives; and (3) build a web-based interface with experts and members of the public, in which they can interactively visualise scenarios and feed their preferences into the generation of refined alternatives in a human-computer co-creation loop. We hypothesise that this will permit the generation of clean energy scenarios that embrace social and environmental sustainability, therefore engendering broader public support. Doing so involves methodological development, software development and implementation, and experimentation with a pilot study in Portugal. This work is done in a focused consortium of four partners: ETHZ is a leading centre of high-resolution energy system modelling; ICTA-UAB is a leading centre in the development of integrated sustainability assessment methods; TLU provides expertise in participatory design of trustworthy interactive systems; and FC.ID contributes its unique expertise combining modelling with participatory action research.
 
-## Partners
-
+## Partners and contacts
 
 <table>
-    <tr><td class="logo-cell"><a href="https://ce3c.ciencias.ulisboa.pt/"><img src="/img/partner_uab.png"></a></td><td><a href="https://ce3c.ciencias.ulisboa.pt/">Centre for Ecology, Evolution and Environmental Changes at FCiências.ID / Universidade de Lisboa</a></td></tr>
-    <tr><td class="logo-cell"><a href="https://hci.tlu.ee/"><img src="/img/partner_tlu.png"></a></td><td><a href="https://hci.tlu.ee/">The HCI group at Tallinna Ülikool (Tallinn University)</a></td></tr>
-    <tr><td class="logo-cell"><a href="https://ictaweb.uab.cat/"><img src="/img/partner_fcid.png"></a></td><td><a href="https://ictaweb.uab.cat/">Institute of Environmental Science and Technology at the Universitat Autonoma de Barcelona</a></td></tr>
-    <tr><td class="logo-cell"><img src="/img/partner_ethz.png"></td><td><a href="https://cp.ethz.ch/">Climate Policy research group at ETH Zürich</a> in cooperation with the <a href="https://ess.tbm.tudelft.nl/">Department of Engineering Systems and Services at TU Delft</a></td></tr>
+    <tr><td class="logo-cell"><a href="https://ce3c.ciencias.ulisboa.pt/"><img src="/img/partner_fcid.png"></a></td><td><a href="https://ce3c.ciencias.ulisboa.pt/">Centre for Ecology, Evolution and Environmental Changes at FCiências.ID / Universidade de Lisboa</a><br>Main contact: <a href="mailto:iscampos@fc.ul.pt">Inês Campos</a></td></tr>
+    <tr><td class="logo-cell"><a href="https://hci.tlu.ee/"><img src="/img/partner_tlu.png"></a></td><td><a href="https://hci.tlu.ee/">The HCI group at Tallinna Ülikool (Tallinn University)</a><br>Main contact: <a href="mailto:cgp2elt0@tlu.ee">Ilja Šmorgun</a></td></tr>
+    <tr><td class="logo-cell"><a href="https://ictaweb.uab.cat/"><img src="/img/partner_uab.png"></a></td><td><a href="https://ictaweb.uab.cat/">Institute of Environmental Science and Technology at the Universitat Autonoma de Barcelona</a><br>Main contact: <a href="mailto:Cristina.Madrid@uab.cat">Cristina Madrid López</a></td></tr>
+    <tr><td class="logo-cell"><img src="/img/partner_ethz.png"></td><td><a href="https://cp.ethz.ch/">Climate Policy research group at ETH Zürich</a> in cooperation with the <a href="https://ess.tbm.tudelft.nl/">Department of Engineering Systems and Services at TU Delft.</a><br>Main contact: <a href="mailto:">Stefan Pfenninger</a></td></tr>
 </table>
-
-## Contact
-
-[Get in touch with the coordinator](mailto:s.pfenninger@tudelft.nl)
