@@ -12,6 +12,6 @@ In the SEEDS project a [consortium of four European institutions](/about/#partne
 
 ## Contact
 
-Get in touch with the [coordinator](mailto:s.pfenninger@tudelft.nl). Main contacts for the individual partners are on on the [about page](/about/#partners-and-contacts).
+Get in touch with us at [info@seeds-project.org](mailto:info@seeds-project.org). Main contacts for the individual partners are on on the [consortium page](/about/#partners-and-contacts).
 
 ## Project updates
