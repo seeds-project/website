@@ -3,7 +3,7 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.8em;
-  background: #E5E8E4;
+  background: #f8f8f8;
   color: #222222;
 }
 
@@ -11,24 +11,68 @@ nav {
   margin-bottom: 40px;
 }
 
+li#main-logo a:link, li#main-logo a:visited, li#main-logo  a:hover {
+  background: none;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+#main-logo img {
+  max-width: 80px;
+  padding-top: -40px;
+}
+
 .menu {
+  display: inline-block;
   padding: 0;
 }
 .menu li {
+  vertical-align: middle;
   display: inline-block;
   margin-right: 10px;
 }
 .menu li a:link, .menu li a:visited {
   padding: 10px 15px;
   text-decoration: none;
-  background: #3c413b;
-  color: #E5E8E4;
+  background: #355b91;
+  color: #ffffff;
   border-bottom: none;
 }
 
 .menu li a:hover {
-  background: #4b504b;
+  background: #48515e;
 }
+
+i.fa-brands {font-style: normal;}
+
+@media (min-width: 690px) {
+  .social {
+    float: right;
+  }
+}
+
+.social {
+  display: inline-block;
+  padding: 0;
+  margin-top: 40px;
+  font-size: 32px;
+}
+.social li {
+  vertical-align: middle;
+  display: inline-block;
+  margin-right: 10px;
+}
+.social li a:link, .social li a:visited {
+  padding: 5px;
+  text-decoration: none;
+  color: #355b91;
+  border-bottom: none;
+}
+
+.social li a:hover {
+  color: #48515e;
+}
+
 
 .article-meta {
   text-decoration: none;
@@ -76,15 +120,15 @@ table .logo-cell {
 }
 
 a:link, a:visited {
-  color: #386040;
+  color: #2e4463;
   text-decoration: none;
-  border-bottom: 1px solid #677f6b;
+  border-bottom: 1px solid #2e4463;
 }
 
 a:hover {
-  color: #809284;
+  color: #355b91;
   text-decoration: none;
-  border-bottom: 2px solid #677f6b;
+  border-bottom: 2px solid #2e4463;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -93,7 +137,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  color: #376040;
+  color: #2e4463;
+  line-height: 1.2em;
 }
 
 .date {
