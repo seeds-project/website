@@ -1,5 +1,5 @@
 ---
-title: "First Workshop"
+title: "First workshop"
 date: 2021-12-03T09:30:00+02:00
 ---
 
