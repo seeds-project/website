@@ -23,10 +23,16 @@ theme = "hugo-xmin"
   identifier = "about"
   weight = 2
   url = "/about/"
+  
+[[menu.main]]
+  name = "Consortium"
+  identifier = "consortium"
+  weight = 3
+  url = "/consortium/"
 
 [[menu.main]]
   name = "Updates"
-  weight = 3
+  weight = 4
   identifier = "updates"
   url = "/updates/"
 
