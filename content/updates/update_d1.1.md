@@ -8,4 +8,4 @@ The starting point of the [SEEDS project workflow](https://seeds-project.org/abo
 Looking for alternatives across both the technological and the spatial dimensions can be quite burdensome, which is why one of the first tasks in the SEEDS project is to increase the computational efficiency of SPORES, and of modelling to generate alternatives in general. The first insights from this research task are available as:
 
 * a [video presentation](https://www.youtube.com/watch?v=y8dP1ZiZb_o) given by Francesco Lombardi this summer at the [International Conference on Operations Research in Bern](https://www.or2021.unibe.ch/)
-* a [PDF report](/downloads/TurboSPORES-2021.pdf)
+* a [PDF report](/static/downloads/TurboSPORES-2021.pdf)
