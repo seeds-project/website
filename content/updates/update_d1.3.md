@@ -1,6 +1,6 @@
 ---
 title: "Automated integration of stakeholder preferences in the search for alternative carbon-neutral energy system configurations"
-date: 2021-10-25T09:20:00+02:00
+date: 2022-07-15T09:20:00+02:00
 ---
 
 The SEEDS project’s modelling workflow is grounded on the key idea of generating many equally feasible energy transition options for Portugal, as opposed to a single ‘optimal solution’. This allows stakeholders to assess the trade-offs among the feasible options and discuss together what is most viable
